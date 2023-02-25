@@ -15,3 +15,6 @@ In this repository i will upload all the exercises and challenges to learn about
 
 ## Product preview
 ![Final result](product-preview-card-component-main/images/screenshot.png)
+
+## Photo gallery
+![Animation](https://user-images.githubusercontent.com/20894332/221384556-ed227ab7-2b9f-4df1-82d9-0003d2a54be0.gif)
