@@ -20,7 +20,7 @@ const getPos = (x, y) => {
 }
 
 window.onmousemove = e => {
-    if(e.clientY <= 64){
+    if(e.clientY <= 200) {
         return;
     }
 
